@@ -28,8 +28,8 @@ int main () {
             printf("%s", text);
         }
     } while (aux != NULL);
-    
     fclose(f);
     system("pause");
     return 0;
+    // nueva linea para ver como se actualiza en github
 }
